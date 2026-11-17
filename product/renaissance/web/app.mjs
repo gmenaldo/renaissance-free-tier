@@ -4,6 +4,7 @@ import { speakLine } from "./speech.mjs";
 const view = document.querySelector("#view");
 const nav = document.querySelector("nav");
 let audio = null;
+let phaseTimer = 0;
 let catalog = null;
 
 const NOTICE = "A printed hertz is a source value, not a medical effect. This is not a medical device and not PEMF.";
@@ -12,14 +13,20 @@ function hertzText(row) {
   return row.hertz == null ? "—" : `${row.hertz} Hz`;
 }
 
+function clearPhaseTimer() {
+  if (!phaseTimer) return;
+  clearInterval(phaseTimer);
+  phaseTimer = 0;
+}
+
 function stopAudio() {
+  clearPhaseTimer();
   if (!audio) return;
   audio.stopped = true;
   audio.speech?.cancel?.();
   window.speechSynthesis?.cancel();
   for (const node of audio.nodes) node.stop?.();
   audio.context.close();
-  clearInterval(audio.timer);
   audio = null;
 }
 
@@ -87,16 +94,14 @@ function card(plan, speech, phaseLabel) {
   });
   const phase = wrap.querySelector("[data-phase]");
   const started = performance.now();
-  const timer = window.setInterval(() => {
+  clearPhaseTimer();
+  phaseTimer = window.setInterval(() => {
     const elapsed = (performance.now() - started) / 1000;
     if (phaseLabel) phase.textContent = elapsed < 120 ? phaseLabel : "Finished";
     else phase.textContent = elapsed < 25 ? "Calibrate · 0–25s" : elapsed < 100 ? "Train · 25–100s" : elapsed < 120 ? "Compound · 100–120s" : "Finished";
-    if (elapsed >= 120) {
-      clearInterval(timer);
-      stopAudio();
-    }
+    if (elapsed >= 120) stopAudio();
   }, 500);
-  if (audio) audio.timer = timer;
+  if (audio) audio.timer = phaseTimer;
   if (speech.text) {
     const line = document.createElement("p");
     line.textContent = speech.label + speech.text;
