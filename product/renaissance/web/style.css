@@ -1,0 +1,70 @@
+:root {
+  color-scheme: dark;
+  --ink: #f4ecdf;
+  --muted: #cbbba6;
+  --paper: #1b1612;
+  --panel: #26201a;
+  --line: #3d342b;
+  --accent: #e2b15a;
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 1.25rem 1rem 3rem;
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.45;
+}
+header h1 { font-size: 1.7rem; margin: 0.2rem 0 1rem; }
+.mark { letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin: 0; font-size: 0.78rem; }
+nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+button, input, textarea {
+  font: inherit;
+  color: inherit;
+}
+nav button, .action, .stop, .copy {
+  min-height: 3rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 999px;
+}
+nav button[aria-pressed="true"] { background: var(--accent); color: #241c12; border-color: var(--accent); }
+form, .card, .row {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+label { display: block; margin: 0.6rem 0; color: var(--muted); }
+input, textarea {
+  width: 100%;
+  margin-top: 0.3rem;
+  padding: 0.7rem 0.8rem;
+  border-radius: 0.7rem;
+  border: 1px solid var(--line);
+  background: #14110e;
+}
+.action { width: 100%; background: var(--accent); color: #241c12; border: 0; margin-top: 0.4rem; }
+.stop, .copy { margin-right: 0.4rem; padding: 0 1rem; }
+.row { display: grid; gap: 0.2rem; }
+.row strong { font-weight: 600; }
+.grade { color: var(--accent); font-size: 0.85rem; }
+.note, footer, .phase { color: var(--muted); }
+footer { margin-top: 2rem; font-size: 0.92rem; }
+#videos { margin-top: 1.5rem; }
+.player {
+  margin: 0.4rem 0;
+  padding: 0.7rem 0.8rem;
+  border: 1px dashed var(--line);
+  border-radius: 0.8rem;
+  color: var(--muted);
+}
+.search { width: 100%; margin-top: 1rem; }
+ul { list-style: none; padding: 0; }
+h2 { font-size: 1.25rem; margin: 0 0 0.4rem; }
+@media (max-width: 640px) {
+  nav { grid-template-columns: 1fr; }
+}

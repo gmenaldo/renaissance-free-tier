@@ -1,0 +1,2130 @@
+{
+  "last_updated": "2026-11-17T12:15:00Z",
+  "status": "research-complete",
+  "audit": "verified-hertz-only",
+  "disclaimer": "Single source of truth for rows checked against a URL. A numeric hertz means that number was found at source_url. A null hertz with status verified means the source names the structure and prints no frequency. Neither means a medical effect. Conflicts stay as separate rows. Rows that still failed are in UNVERIFIED.json.",
+  "entry_count": 130,
+  "entries": [
+    {
+      "body_part": "blood",
+      "organ": "blood",
+      "hertz": 321.9,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter E. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "adrenals",
+      "organ": "adrenals",
+      "hertz": 492.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter B. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "kidney",
+      "organ": "kidney",
+      "hertz": 319.88,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter Eb. A later block on the same page prints kidney at 330. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "liver",
+      "organ": "liver",
+      "hertz": 317.83,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter Eb. A later block prints liver at 198. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "bladder",
+      "organ": "bladder",
+      "hertz": 352,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter F in the first block and F# in a later block, same number. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "intestines",
+      "organ": "intestines",
+      "hertz": 281,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed as 281 with pitch C#. A later block prints small intestine at 281.6. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "lungs",
+      "organ": "lungs",
+      "hertz": 220,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter A. Same number in later blocks. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "colon",
+      "organ": "colon",
+      "hertz": 176,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter F, later F#, same number. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "gall bladder",
+      "organ": "gall bladder",
+      "hertz": 164.3,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter E. A later block prints gall bladder at 330. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "pancreas",
+      "organ": "pancreas",
+      "hertz": 117.3,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter C#. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "stomach",
+      "organ": "stomach",
+      "hertz": 110,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter A. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "brain",
+      "organ": "brain",
+      "hertz": 315.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter Eb. This is a chart association, not an EEG band. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "fat cells",
+      "organ": "fat cells",
+      "hertz": 295.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter C#. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "muscles",
+      "organ": "muscles",
+      "hertz": 324,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Printed with pitch letter E. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "bone",
+      "organ": "bone",
+      "hertz": 418.3,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment.",
+      "description": "Page text shows 418,3 which is the European decimal form of 418.3, pitch Ab. Not a clinical frequency assignment. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "conflict-kept",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "personality",
+      "organ": "personality",
+      "hertz": 264,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Printed as Personality, pitch C+. Not an anatomical organ. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "circulation",
+      "organ": "circulation",
+      "hertz": 586,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Printed as Circulation,Sex, pitch C#. Kept as printed, not a treatment. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "adrenals",
+      "organ": "adrenals",
+      "hertz": 492.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Second block groups adrenals with thyroid and parathyroid at 492.8. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "thyroid",
+      "organ": "thyroid",
+      "hertz": 492.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Grouped on the page with adrenals and parathyroid. Not a separate measurement. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "parathyroid",
+      "organ": "parathyroid",
+      "hertz": 492.8,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Grouped on the page with adrenals and thyroid. Not a separate measurement. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "small intestine",
+      "organ": "small intestine",
+      "hertz": 281.6,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Later block. First block printed intestines at 281. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "spleen",
+      "organ": "spleen",
+      "hertz": 492,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Added in the later blocks, pitch B. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "adrenals",
+      "organ": "adrenals",
+      "hertz": 492,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Alternate later-block value. First block printed 492.8. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "kidney",
+      "organ": "kidney",
+      "hertz": 330,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Alternate later-block value. Earlier block printed 319.88. Both kept. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "liver",
+      "organ": "liver",
+      "hertz": 198,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Alternate later-block value, pitch Ab. Earlier block printed 317.83. Both kept. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "gall bladder",
+      "organ": "gall bladder",
+      "hertz": 330,
+      "category": "organ",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Later printed block on the same page.",
+      "description": "Alternate later-block value. Earlier block printed 164.3. Both kept. Conflict kept rather than averaged. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "great-dreams",
+        "organ",
+        "alternate-value",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "transpersonal",
+      "organ": "transpersonal",
+      "hertz": 273,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 273, ratio 1:15, pitch C#. Page note: Earth orbit 272. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "crown",
+      "organ": "crown",
+      "hertz": 480,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 480, ratio 15:1, pitch B. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "third eye adjacent",
+      "organ": "third eye adjacent",
+      "hertz": 445,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 445, ratio 1:9, pitch Bb. Page note: Venus orbit 442. The page does not give this row a chakra name. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "third eye",
+      "organ": "third eye",
+      "hertz": 448,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 448, ratio 14:1, pitch A. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "psychic center",
+      "organ": "psychic center",
+      "hertz": 416,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 416, ratio 13:1, pitch Ab. Page note: Uranus orbit 415. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unnamed",
+      "organ": "unnamed",
+      "hertz": 410,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 410, ratio 1:10. Page note: Venus spin 409. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unnamed",
+      "organ": "unnamed",
+      "hertz": 372,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 372, ratio 1:11, pitch G#. Page note: Earth spin 378. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "throat",
+      "organ": "throat",
+      "hertz": 384,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 384, ratio 12:1, pitch G. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "thymus",
+      "organ": "thymus",
+      "hertz": 352,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 352, ratio 11:1, pitch F#. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "heart",
+      "organ": "heart",
+      "hertz": 341,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 341, ratio 1:12, pitch F. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "solar plexus",
+      "organ": "solar plexus",
+      "hertz": 320,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 320, ratio 10:1, pitch Eb. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "diaphragm",
+      "organ": "diaphragm",
+      "hertz": 315,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 315, ratio 1:13, pitch D#. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unnamed",
+      "organ": "unnamed",
+      "hertz": 293,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 293, ratio 1:14, pitch D+. Page note: Saturn orbit 296. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "polarity",
+      "organ": "polarity",
+      "hertz": 288,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 288, ratio 9:1, pitch D. Page note: Mars orbit 289. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "root",
+      "organ": "root",
+      "hertz": 256,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Ratio chart block.",
+      "description": "Printed 256, ratio 1:1, pitch C. One of at least two conflicting chakra charts on the same page. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "ratio-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "root",
+      "organ": "root",
+      "hertz": 126,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "polarity",
+      "organ": "polarity",
+      "hertz": 283,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "diaphragm",
+      "organ": "diaphragm",
+      "hertz": 75,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "solar plexus",
+      "organ": "solar plexus",
+      "hertz": 161,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "heart",
+      "organ": "heart",
+      "hertz": 87,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "throat",
+      "organ": "throat",
+      "hertz": 188,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "venusian",
+      "organ": "venusian",
+      "hertz": 49,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "gaia",
+      "organ": "gaia",
+      "hertz": 54,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "psychic center",
+      "organ": "psychic center",
+      "hertz": 103,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "third eye",
+      "organ": "third eye",
+      "hertz": 113,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "crown",
+      "organ": "crown",
+      "hertz": 59,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "transpersonal",
+      "organ": "transpersonal",
+      "hertz": 66,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "diaphragm",
+      "organ": "diaphragm",
+      "hertz": 39,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "polarity",
+      "organ": "polarity",
+      "hertz": 36,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "crown",
+      "organ": "crown",
+      "hertz": 30,
+      "category": "chakra",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Separate cps chart on the same page. Values kept apart from the ratio chart.",
+      "description": "Printed in cycles per second on the lower chakra chart. Not the ratio-chart value and not the popular solfeggio-to-chakra map. Digits checked against the live Hero charts on the page. Ratio-chart and cps-chart values are both present and still conflict.",
+      "tags": [
+        "hero",
+        "chakra",
+        "cps-chart",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "earth",
+      "hertz": 272.2,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for earth. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "earth",
+      "hertz": 378.5,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for earth. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "sun",
+      "hertz": 332.8,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for sun. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "sun",
+      "hertz": 497.1,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for sun. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "moon",
+      "hertz": 421.3,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for moon. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "mars",
+      "hertz": 289.4,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for mars. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "mars",
+      "hertz": 389.4,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for mars. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "mercury",
+      "hertz": 282.4,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for mercury. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "mercury",
+      "hertz": 421.3,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for mercury. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "jupiter",
+      "hertz": 367.2,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for jupiter. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "jupiter",
+      "hertz": 473.9,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for jupiter. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "venus",
+      "hertz": 442,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for venus. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "venus",
+      "hertz": 409.1,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for venus. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "saturn",
+      "hertz": 295.7,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for saturn. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "saturn",
+      "hertz": 455.4,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for saturn. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "uranus",
+      "hertz": 414.7,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for uranus. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "uranus",
+      "hertz": 430.8,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for uranus. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "neptune",
+      "hertz": 422.8,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for neptune. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "neptune",
+      "hertz": 310.7,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for neptune. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "pluto",
+      "hertz": 280.5,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page orbit figure for pluto. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "orbit",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "pluto",
+      "hertz": 486.2,
+      "category": "planet",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Planet note table.",
+      "description": "Hero page spin figure for pluto. Not an astronomical frequency in hertz of the orbit itself. Cousto's cosmic-octave figures are a different calculation and are not mixed into this row. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "planet",
+        "spin",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "sky",
+      "organ": "earth year tone",
+      "hertz": 136.1,
+      "category": "cosmic-octave",
+      "source": "Hans Cousto, The Cosmic Octave. Commonly printed as 136.10 Hz and called the OM or Earth-year tone.",
+      "description": "Octave-reduced calculation from the Earth year, published as a tuning reference. Not the Hero Earth orbit figure of 272.2 and not a medical frequency. Hans Cousto's own planetware page prints Earth Year 136.10 Hz and calls the method the Cosmic Octave. The greatdreams compilation instead prints 136.1 as a Sun tone (source code RV) and prints Hans Cousto earth-year octaves as 126.22 Hz and 272 Hz. Those conflicts are not folded into this row.",
+      "tags": [
+        "cousto",
+        "ohm",
+        "cosmic-octave",
+        "tuning"
+      ],
+      "source_url": "https://www.planetware.de/octave",
+      "status": "verified"
+    },
+    {
+      "body_part": "voice",
+      "organ": "ohm",
+      "hertz": 136.1,
+      "category": "ohm",
+      "source": "Same Cousto Earth-year figure, widely labeled OM or Ohm in sound apps.",
+      "description": "A tuning and chant reference. Not an organ frequency. Hans Cousto's own planetware page prints Earth Year 136.10 Hz and calls the method the Cosmic Octave. The greatdreams compilation instead prints 136.1 as a Sun tone (source code RV) and prints Hans Cousto earth-year octaves as 126.22 Hz and 272 Hz. Those conflicts are not folded into this row.",
+      "tags": [
+        "cousto",
+        "ohm",
+        "tuning"
+      ],
+      "source_url": "https://www.planetware.de/octave",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "violet",
+      "hertz": 405,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "indigo",
+      "hertz": 438,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "blue",
+      "hertz": 473,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "green",
+      "hertz": 527,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "yellow",
+      "hertz": 580,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "orange",
+      "hertz": 597,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "color",
+      "organ": "red",
+      "hertz": 700,
+      "category": "color",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Color list.",
+      "description": "Printed as a sound hertz value next to a color name. This is not the optical frequency of that color. Violet light is hundreds of terahertz, not 405 Hz. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "color",
+        "not-optical",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "chromium",
+      "hertz": 384,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 384, ratio 3:2, pitch G#, page links it to throat. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "molybdenum",
+      "hertz": 336,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 336, ratio 4:3, pitch F. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "calcium",
+      "hertz": 320,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 320, ratio 5:4, pitch E-, page links it to solar plexus. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "manganese",
+      "hertz": 400,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 400, ratio 4:5, pitch G#. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "iron",
+      "hertz": 416,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 416, ratio 13:8, pitch Ab, page links it to psychic center and Uranus. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "potassium",
+      "hertz": 304,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 304, ratio 6:5, pitch D#. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "iodine",
+      "hertz": 424,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 424, ratio 5:6, pitch Ab. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "copper",
+      "hertz": 464,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 464, ratio 10:11, pitch Bb. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "phosphorus",
+      "hertz": 480,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 480, ratio 16:15, pitch B, page links it to crown. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "zinc",
+      "hertz": 480,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 480, ratio 16:15, pitch B. Same number as phosphorus. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "mineral",
+      "organ": "selenium",
+      "hertz": 272,
+      "category": "mineral",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Mineral list.",
+      "description": "Printed 272, ratio 15:16, pitch C#, page links it to transpersonal and Earth. A chart association, not a measured resonance of the element. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "hero",
+        "mineral",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 174",
+      "hertz": 174,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular modern addition. Often marketed for pain. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 285",
+      "hertz": 285,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular modern addition. Often marketed for tissue or energy. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 396",
+      "hertz": 396,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for guilt or fear. Historical solfeggio syllable schemes do not establish this use. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 417",
+      "hertz": 417,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for change. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 528",
+      "hertz": 528,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed as a DNA repair or love tone. That repair claim is not established. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 639",
+      "hertz": 639,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for connection. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 741",
+      "hertz": 741,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for expression or detox. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 852",
+      "hertz": 852,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for intuition. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "tone",
+      "organ": "solfeggio 963",
+      "hertz": 963,
+      "category": "solfeggio",
+      "source": "Popular nine-tone solfeggio set used by Solfeggio Frequencies Healing, Life7, Healing Sounds, and many others. Horowitz-style modern list, not a laboratory organ map.",
+      "description": "Popular set. Often marketed for crown or oneness. No clinical assignment. The App Store listing prints this nine-tone set: 174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz. That verifies the set as a product convention. It does not verify the marketing use named in the description.",
+      "tags": [
+        "solfeggio",
+        "popular",
+        "unvalidated"
+      ],
+      "source_url": "https://apps.apple.com/us/app/solfeggio-frequencies-healing/id6806746312",
+      "status": "verified"
+    },
+    {
+      "body_part": "earth-ionosphere",
+      "organ": "Schumann fundamental",
+      "hertz": 7.83,
+      "category": "schumann",
+      "source": "Approximate physical fundamental of the Earth-ionosphere cavity resonance. Often printed as 7.83 Hz. It wanders.",
+      "description": "A geophysical reference. Rendering it as a stereo audio difference is not an electromagnetic treatment and not PEMF. The NASA-hosted Stolc summary prints 7.83, 14.3, 20.8, 27.3 and 33.8 Hz. A separate NASA technical report prints the same harmonics beside an approximate fundamental of 7.8 Hz (https://ntrs.nasa.gov/api/citations/20120000051/downloads/20120000051.pdf). These are cavity-resonance averages, not treatment tones. The live page https://www.greatdreams.com/hertz.htm also prints 7.83 as an Earth-resonance claim from a different source code.",
+      "tags": [
+        "schumann",
+        "geophysics",
+        "approximate"
+      ],
+      "source_url": "https://science.nasa.gov/wp-content/uploads/2023/05/154_48a5766284d47dc2523cb38d856654f6_STOLCVIKTOR.pdf",
+      "status": "verified"
+    },
+    {
+      "body_part": "earth-ionosphere",
+      "organ": "Schumann harmonic 2",
+      "hertz": 14.3,
+      "category": "schumann",
+      "source": "Commonly printed approximate harmonics. The live cavity frequencies move.",
+      "description": "Approximate harmonic 2. Not a fixed healing tone. The NASA-hosted Stolc summary prints 7.83, 14.3, 20.8, 27.3 and 33.8 Hz. A separate NASA technical report prints the same harmonics beside an approximate fundamental of 7.8 Hz (https://ntrs.nasa.gov/api/citations/20120000051/downloads/20120000051.pdf). These are cavity-resonance averages, not treatment tones. The live page https://www.greatdreams.com/hertz.htm also prints 7.83 as an Earth-resonance claim from a different source code.",
+      "tags": [
+        "schumann",
+        "harmonic",
+        "approximate"
+      ],
+      "source_url": "https://science.nasa.gov/wp-content/uploads/2023/05/154_48a5766284d47dc2523cb38d856654f6_STOLCVIKTOR.pdf",
+      "status": "verified"
+    },
+    {
+      "body_part": "earth-ionosphere",
+      "organ": "Schumann harmonic 3",
+      "hertz": 20.8,
+      "category": "schumann",
+      "source": "Commonly printed approximate harmonics. The live cavity frequencies move.",
+      "description": "Approximate harmonic 3. Not a fixed healing tone. The NASA-hosted Stolc summary prints 7.83, 14.3, 20.8, 27.3 and 33.8 Hz. A separate NASA technical report prints the same harmonics beside an approximate fundamental of 7.8 Hz (https://ntrs.nasa.gov/api/citations/20120000051/downloads/20120000051.pdf). These are cavity-resonance averages, not treatment tones. The live page https://www.greatdreams.com/hertz.htm also prints 7.83 as an Earth-resonance claim from a different source code.",
+      "tags": [
+        "schumann",
+        "harmonic",
+        "approximate"
+      ],
+      "source_url": "https://science.nasa.gov/wp-content/uploads/2023/05/154_48a5766284d47dc2523cb38d856654f6_STOLCVIKTOR.pdf",
+      "status": "verified"
+    },
+    {
+      "body_part": "earth-ionosphere",
+      "organ": "Schumann harmonic 4",
+      "hertz": 27.3,
+      "category": "schumann",
+      "source": "Commonly printed approximate harmonics. The live cavity frequencies move.",
+      "description": "Approximate harmonic 4. Not a fixed healing tone. The NASA-hosted Stolc summary prints 7.83, 14.3, 20.8, 27.3 and 33.8 Hz. A separate NASA technical report prints the same harmonics beside an approximate fundamental of 7.8 Hz (https://ntrs.nasa.gov/api/citations/20120000051/downloads/20120000051.pdf). These are cavity-resonance averages, not treatment tones. The live page https://www.greatdreams.com/hertz.htm also prints 7.83 as an Earth-resonance claim from a different source code.",
+      "tags": [
+        "schumann",
+        "harmonic",
+        "approximate"
+      ],
+      "source_url": "https://science.nasa.gov/wp-content/uploads/2023/05/154_48a5766284d47dc2523cb38d856654f6_STOLCVIKTOR.pdf",
+      "status": "verified"
+    },
+    {
+      "body_part": "earth-ionosphere",
+      "organ": "Schumann harmonic 5",
+      "hertz": 33.8,
+      "category": "schumann",
+      "source": "Commonly printed approximate harmonics. The live cavity frequencies move.",
+      "description": "Approximate harmonic 5. Not a fixed healing tone. The NASA-hosted Stolc summary prints 7.83, 14.3, 20.8, 27.3 and 33.8 Hz. A separate NASA technical report prints the same harmonics beside an approximate fundamental of 7.8 Hz (https://ntrs.nasa.gov/api/citations/20120000051/downloads/20120000051.pdf). These are cavity-resonance averages, not treatment tones. The live page https://www.greatdreams.com/hertz.htm also prints 7.83 as an Earth-resonance claim from a different source code.",
+      "tags": [
+        "schumann",
+        "harmonic",
+        "approximate"
+      ],
+      "source_url": "https://science.nasa.gov/wp-content/uploads/2023/05/154_48a5766284d47dc2523cb38d856654f6_STOLCVIKTOR.pdf",
+      "status": "verified"
+    },
+    {
+      "body_part": "brain",
+      "organ": "binaural percept limit",
+      "hertz": 30,
+      "category": "binaural",
+      "source": "Ingendoh, Posny, and Heine, PLOS One, 2023, summarizing the perceptible binaural range as about 1-30 Hz.",
+      "description": "Upper end of the commonly cited perceptible binaural range. Their review of 14 EEG studies found 5 consistent with entrainment, 8 not, and 1 mixed. Ingendoh, Posny, and Heine (2023) write that binaural beats can be perceived from about 1 to 30 Hz. The stored value is that stated upper bound, not a sharp laboratory cutoff.",
+      "tags": [
+        "binaural",
+        "review",
+        "evidence-limit"
+      ],
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286023",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 0.5,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text: very relaxing, against headache, for lower back pain. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 1.0,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text: feeling of well-being and pituitary claims. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 1.45,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text attributes a tri-thalamic claim to Ronald deStrulle. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 2.5,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text: pain relief and endogenous opiates. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 3.4,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text: sound sleep. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "unspecified",
+      "organ": "page claim",
+      "hertz": 3.5,
+      "category": "page-claim",
+      "source": "Barbara Hero chart as reproduced at https://www.greatdreams.com/hertz.htm (copyright notice on page: Barbara Hero 1996-98). Editorial association, not a validated organ-healing assignment. Low-frequency claim list.",
+      "description": "Page text: feeling of unity and language-learning claims. Unverified page text. Not a protocol and not PEMF. Digits checked against the live page text on 17 November 2026. The page is a compilation, not a clinical study.",
+      "tags": [
+        "great-dreams",
+        "page-claim",
+        "unvalidated"
+      ],
+      "source_url": "https://www.greatdreams.com/hertz.htm",
+      "status": "verified"
+    },
+    {
+      "body_part": "meridian",
+      "organ": "lung meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "large intestine meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "stomach meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "spleen meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "heart meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "small intestine meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "bladder meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "kidney meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "pericardium meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "triple burner meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. WHO's English name on that page is Triple Energizer. No hertz is printed.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "gall bladder meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. WHO's spelling on that page is Gallbladder. No hertz is printed.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    },
+    {
+      "body_part": "meridian",
+      "organ": "liver meridian",
+      "hertz": null,
+      "category": "meridian",
+      "source": "World Health Organization Regional Office for the Western Pacific, Standard Acupuncture Nomenclature, 1984. The twelve primary meridians are listed by English name. The page prints no hertz.",
+      "description": "The meridian name is traditional. No validated acoustic hertz is stored. Do not paste an organ-row number onto a meridian and call it the same thing. The page prints the English name and no hertz.",
+      "tags": [
+        "meridian",
+        "tcm",
+        "gap",
+        "unvalidated",
+        "who-1984",
+        "name-only",
+        "no-hertz"
+      ],
+      "status": "verified",
+      "source_url": "https://apps.who.int/iris/bitstream/handle/10665/206876/Standard_acupuncture_nomenclature_1984_eng.pdf",
+      "reason": "Moved. The 1984 WHO nomenclature lists this meridian by name and assigns no frequency."
+    }
+  ]
+}
